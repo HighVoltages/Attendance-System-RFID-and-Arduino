@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB49DA33-EA0F-447B-8D9A-EA548C24CD82}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>login_design</RootNamespace>
+    <AssemblyName>login_design</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Fee Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee Notification.Designer.cs">
+      <DependentUpon>Fee Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Atndnce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Atndnce.Designer.cs">
+      <DependentUpon>Atndnce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fee.Designer.cs">
+      <DependentUpon>Fee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu.Designer.cs">
+      <DependentUpon>Main Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentDataSet.cs">
+      <DependentUpon>StudentDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="StudentDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="StudentDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="timetable.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>timetable.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Upload Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upload Data.Designer.cs">
+      <DependentUpon>Upload Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="upload marks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="upload marks.Designer.cs">
+      <DependentUpon>upload marks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upload.Designer.cs">
+      <DependentUpon>Upload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Data.Cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Data.Designer.Cs">
+      <DependentUpon>View Data.Cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Marks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Marks.Designer.cs">
+      <DependentUpon>View Marks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View.Designer.cs">
+      <DependentUpon>View.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Fee Notification.resx">
+      <DependentUpon>Fee Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Atndnce.resx">
+      <DependentUpon>Atndnce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fee.resx">
+      <DependentUpon>Fee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main Menu.resx">
+      <DependentUpon>Main Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upload Data.resx">
+      <DependentUpon>Upload Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="upload marks.resx">
+      <DependentUpon>upload marks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upload.resx">
+      <DependentUpon>Upload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Data.resx">
+      <DependentUpon>View Data.Cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Marks.resx">
+      <DependentUpon>View Marks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View.resx">
+      <DependentUpon>View.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\login_design.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\login_design.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\login_design.StudentDataSetTableAdapters.AttendanceTableAdapter.datasource" />
+    <None Include="Properties\DataSources\login_design.StudentDataSetTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\login_design.StudentDataSetTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\login_design.StudentDataSetTableAdapters.TableTableAdapter.datasource" />
+    <None Include="Properties\DataSources\login_design.timetableTableAdapters.AttendanceTableAdapter.datasource" />
+    <None Include="Properties\DataSources\login_design.timetableTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\login_design.timetableTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\login_design.timetableTableAdapters.TableTableAdapter.datasource" />
+    <None Include="Properties\DataSources\login_design.timetableTableAdapters.TimeTableTableAdapter.datasource" />
+    <None Include="Properties\DataSources\StudentDataSet.TableDataTable.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StudentDataSet.xsc">
+      <DependentUpon>StudentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="StudentDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StudentDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="StudentDataSet.xss">
+      <DependentUpon>StudentDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="StudentDataSet1.xsc">
+      <DependentUpon>StudentDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="StudentDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StudentDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="StudentDataSet1.xss">
+      <DependentUpon>StudentDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="timetable.xsc">
+      <DependentUpon>timetable.xsd</DependentUpon>
+    </None>
+    <None Include="timetable.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>timetable.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="timetable.xss">
+      <DependentUpon>timetable.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Student.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Student_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Student.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

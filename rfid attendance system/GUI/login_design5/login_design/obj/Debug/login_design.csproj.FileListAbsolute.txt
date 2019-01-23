@@ -1,0 +1,66 @@
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\bin\Debug\login_design.exe.config
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\bin\Debug\login_design.exe
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\bin\Debug\login_design.pdb
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.csprojResolveAssemblyReference.cache
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Form1.resources
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Properties.Resources.resources
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.csproj.GenerateResource.Cache
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.exe
+c:\users\asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.pdb
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Main_Menu.resources
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\bin\Debug\Student.mdf
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\bin\Debug\Student_log.ldf
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Upload_Data.resources
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Upload.resources
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\obj\Debug\login_design.View_Data.resources
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\obj\Debug\login_design.View_Marks.resources
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\obj\Debug\login_design.View.resources
+C:\Users\Asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Atndnce.resources
+C:\Users\Asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Student.resources
+C:\Users\Asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Assignment.resources
+C:\Users\Asim\documents\visual studio 2013\Projects\login_design\login_design\obj\Debug\login_design.Fee.resources
+C:\Users\Asim\Documents\Visual Studio 2013\Projects\login_design\login_design\obj\Debug\login_design.upload_marks.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\bin\Debug\login_design.exe.config
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.exe
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.pdb
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\bin\Debug\Student.mdf
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\bin\Debug\Student_log.ldf
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\bin\Debug\login_design.exe
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\bin\Debug\login_design.pdb
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Assignment.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Atndnce.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Fee.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Form1.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Main_Menu.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Properties.Resources.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Student.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Upload_Data.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.upload_marks.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.Upload.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.View_Data.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.View_Marks.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.View.resources
+C:\Users\Dell\Downloads\yltc _system\login_design5\login_design\obj\Debug\login_design.csproj.GenerateResource.Cache
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\bin\Debug\login_design.exe.config
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.exe
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.pdb
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\bin\Debug\Student.mdf
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\bin\Debug\Student_log.ldf
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\bin\Debug\login_design.exe
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\bin\Debug\login_design.pdb
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.csprojResolveAssemblyReference.cache
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Assignment.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Atndnce.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Fee.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Form1.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Main_Menu.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Properties.Resources.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Student.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Upload_Data.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.upload_marks.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.Upload.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.View_Data.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.View_Marks.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.View.resources
+C:\Users\asimz\Desktop\login_design\login_design5\login_design\obj\Debug\login_design.csproj.GenerateResource.Cache
